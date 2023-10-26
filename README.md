@@ -18,7 +18,7 @@ DATOS SOBRE MÍ:
 
 Lunes | Martes     | Miercoles | Jueves  | Viernes | Sabado | Domingo
 ------|------------|-----------|---------|---------|--------|--------
-:sob: | :anguished:|:WEARY:    |:PENSIVE:| :YUM:   | :GRIN: | :WINK:
+:sob: | :anguished:| :weary:   |:pensive:| :yum:   | :grin: | :wink:
 
 <!--
 **Sahyli/Sahyli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
