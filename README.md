@@ -16,7 +16,9 @@ DATOS SOBRE MÍ:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-Lunes | Martes     | Miercoles | Jueves  | Viernes | Sabado | Domingo
+Situacion de mi semana:
+
+Lunes | Martes     | Miércoles | Jueves  | Viernes | Sabado | Domingo
 ------|------------|-----------|---------|---------|--------|--------
 :sob: | :anguished:| :weary:   |:pensive:| :yum:   | :grin: | :wink:
 
