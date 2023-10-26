@@ -4,6 +4,8 @@
 
 TENERIFE.GUIA DE ISORA
 
+![](https://mediaim.expedia.com/destination/1/45a3c1329a2178ea4458c7e443975717.jpg)
+
 DATOS SOBRE MÍ:
 - 🔭 Actualmente estoy trabajando en The Ritz Carlton Abama
 - 💬 Estudio Master profesorado
