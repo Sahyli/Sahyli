@@ -10,6 +10,9 @@ DATOS SOBRE MÍ:
 - 👯 Me gusta practicar Yoga
 - 🤔 Reflexion:la vida son dos días.
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
 
 
 <!--
