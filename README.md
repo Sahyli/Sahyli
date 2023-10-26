@@ -8,7 +8,7 @@ TENERIFE.GUIA DE ISORA
 
 DATOS SOBRE MÍ:
 - 🔭 Actualmente estoy trabajando en The Ritz Carlton Abama
-- 💬 Estudié Arquitectura tecnica y actualmente el Master de profesorado
+- 💬 Estudié Arquitectura técnica y actualmente el Master de profesorado
 - 👯 Me gusta practicar Pilates y Padel
 - 🤔 Reflexion:la vida son dos días.
 
@@ -16,8 +16,9 @@ DATOS SOBRE MÍ:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-
-
+Lunes | Martes     | Miercoles | Jueves  | Viernes | Sabado | Domingo
+------|------------|-----------|---------|---------|--------|--------
+:sob: | :anguished:|:WEARY:    |:PENSIVE:| :YUM:   | :GRIN: | :WINK:
 
 <!--
 **Sahyli/Sahyli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
