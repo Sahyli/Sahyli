@@ -8,8 +8,8 @@ TENERIFE.GUIA DE ISORA
 
 DATOS SOBRE MÍ:
 - 🔭 Actualmente estoy trabajando en The Ritz Carlton Abama
-- 💬 Estudio Master profesorado
-- 👯 Me gusta practicar Yoga
+- 💬 Estudié Arquitectura tecnica y actualmente el Master de profesorado
+- 👯 Me gusta practicar Pilates y Padel
 - 🤔 Reflexion:la vida son dos días.
 
 *La broma del día:*
